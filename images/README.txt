@@ -1,0 +1,1 @@
+Place hero.jpg and band1.jpg... here.
